@@ -22,7 +22,7 @@ const Filter = () => {
     if (e.target.name === "country") {
       setSelect(e.target.value.toLowerCase());
     }
-    console.log(choice);
+    
   };
 
   const list = [
