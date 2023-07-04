@@ -1,0 +1,54 @@
+export const turkey=[
+    {
+        id:1,
+        state:"Istanbul"
+    },
+    {
+        id:2,
+        state:"Ankara"
+    },
+    {
+        id:3,
+        state:"Izmir"
+    },
+    {
+        id:4,
+        state:"Kocaeli"
+    },
+]
+export const usa=[
+    {
+        id:1,
+        state:"New York"
+    },
+    {
+        id:2,
+        state:"California"
+    },
+    {
+        id:3,
+        state:"Texas"
+    },
+    {
+        id:4,
+        state:"Washington"
+    },
+    {
+        id:5,
+        state:"Arizona"
+    },
+]
+export const germany=[
+    {
+        id:1,
+        state:"Munih"
+    },
+    {
+        id:2,
+        state:"Berlin"
+    },
+    {
+        id:3,
+        state:"Frankfurt"
+    },
+]
