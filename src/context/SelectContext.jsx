@@ -42,7 +42,7 @@ const SelectProvider = ({ children }) => {
     e.preventDefault();
 
     try {
-      console.log("Arama: ", [selected, choice, {search,price,date}]);
+      console.log("Arama: ", [{selected, choice, search,price,date}]);
       toastSuccessNotify("Searched successfully!");
     } catch (error) {
       toastErrorNotify("Error");
